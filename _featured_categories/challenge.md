@@ -3,16 +3,15 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: Challenge
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: challenge
+order: 3
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
-
+  각종 도전들과 다양한 취미 생활을 기록합니다.
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
